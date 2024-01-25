@@ -1,0 +1,41 @@
+body{
+    font-family: FreeMono;
+    background-color: #d71212;
+    color: white;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#form-container{
+    background-color: #1ae810;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    width: 400px;
+}
+.form-group{
+    margin-bottom: 16px;
+}
+label{
+    display: block;
+    margin: 8px;
+    font-weight: bold;
+}
+input[type="email"]
+input[type="password"]
+input[type="text"]
+textarea,
+select{
+    width: 100px;
+    box-sizing: border-box;
+    border: 1px solid red;
+    border-radius: 4px;
+
+}
+textarea{
+
+
+}

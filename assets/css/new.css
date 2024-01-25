@@ -1,0 +1,43 @@
+.fruits{
+    border: solid 3px red;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-family: "Century Schoolbook L";
+    background-image: url("assets/images/oranges.jpeg");
+    background-color: #1d203a;
+}
+.cars{
+    background-color: #1d203a;
+    text-align: center;
+    border: solid 4px blue;
+    text-align: center;
+    font-family: Kinnari;
+    color: white;
+    margin: 20px;
+    background-image: url("assets/images/Untitled.jpeg");
+}
+.FRUITS{
+    background-color: #3d4669;
+    border: solid 4px green;
+    text-align: center;
+    font-family: "DejaVu Serif";
+    margin: 20px;
+    background-image: url("assets/images/Apples.jpeg ");
+}
+#computers{
+    border: solid 4px blue;
+    background-color: #1d203a;
+    text-align: center;
+    font-family: Dialog;
+    margin: 20px;
+    background-image: url("assets/images/dell.jpeg");
+}
+#games{
+    border: dashed 5px blue;
+    background-color: #1d203a;
+    color: white;
+    font-family: D050000L;
+    margin: 20px;
+    background-image: url("assets/images/freefire.jpeg");
+}

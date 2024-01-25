@@ -1,0 +1,13 @@
+vvvvvv
+
+
+git init
+git add .
+git config user.name "git username"
+git config user.email "git email"
+git commit -m "initial commit"
+remoteg
+git push -u origin master
+
+enter github username
+password

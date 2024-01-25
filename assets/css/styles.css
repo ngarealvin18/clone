@@ -1,0 +1,16 @@
+table{
+    width: 100%;
+    font-family: Kinnari;
+    border-collapse: inherit;
+    background-image: url("assets/images/car1.jpeg");
+}
+td,th{
+    border: 2px solid #1ae810;
+    padding: 10px;
+}
+th{
+    color: red;
+}
+td{
+    color: white;
+}
